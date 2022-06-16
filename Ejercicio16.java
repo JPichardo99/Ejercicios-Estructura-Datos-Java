@@ -1,7 +1,4 @@
 /*
-Nombre: Pichardo Buenrostro jesus Alejandro 
-Instrucciones Problema propuesto 16
------
 La busqueda Secuencial consiste en buscar de forma linea o secuencial (uno en uno)
 un elemento dentro de una serie de datos determinados, si el elemento en 
 la primera posicion es el elemento que se desea buscar (Mejor caso) entonces
